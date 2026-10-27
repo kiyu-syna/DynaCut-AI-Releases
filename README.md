@@ -13,10 +13,6 @@
 
 **[Tải bản mới nhất](https://github.com/kiyu-syna/DynaCut-AI-Releases/releases/latest)** · **[Trang chủ](https://dynacut.site)** · **[Liên hệ](#liên-hệ-và-hỗ-trợ)** · [English](README.en.md)
 
-<br>
-
-<img src="https://dynacut.site/assets/og-image.jpg" alt="DynaCut AI" width="720">
-
 </div>
 
 ---
